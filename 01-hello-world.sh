@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Bhoopathi"
+echo "Hello world"
